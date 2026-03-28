@@ -26,11 +26,11 @@ That usually means:
 
 I work most comfortably around:
 
-- 🧩 **Magento**  
-- 🛍️ **Shopify**  
-- 🏬 **BigCommerce**  
-- 🔄 **Celigo**  
-- 📊 **Netsuite**  
+- **Magento**  
+- **Shopify**  
+- **BigCommerce**  
+- **Celigo**  
+- **Netsuite**  
 
 ---
 
